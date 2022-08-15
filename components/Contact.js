@@ -93,7 +93,7 @@ function Contact() {
             <div className="py-24 md:h-auto row-span-2 flex items-center justify-center bg-[#1d1e23]">
                 <div className="mx-10 space-y-4">
                     <h1 className="text-2xl font-medium text-white">Contact Information</h1>
-                    <h2 className="text-gray-400 pb-6">We're open for any suggestions or just to have a chat</h2>
+                    <h2 className="text-gray-400 pb-6">We&apos;re open for any suggestions or just to have a chat</h2>
                     <div className="space-y-4">
                         <a href="" className="flex flex-nowrap items-center space-x-4 hover:underline decoration-2 underline-offset-8 decoration-wavy decoration-theme">
                             <svg className="flex-none fill-white border-2 rounded-2xl p-2" xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 24 24"><path d="M12 0c-4.198 0-8 3.403-8 7.602 0 4.198 3.469 9.21 8 16.398 4.531-7.188 8-12.2 8-16.398 0-4.199-3.801-7.602-8-7.602zm0 11c-1.657 0-3-1.343-3-3s1.343-3 3-3 3 1.343 3 3-1.343 3-3 3z"/></svg>
