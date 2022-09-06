@@ -15,5 +15,5 @@ Designed and developed a beautiful and fully responsive static web application f
 
 
 ## Connect with me:
-- denis.kosogov@gmail.com
-- https://www.linkedin.com/in/denis-kosogov/
+denis.kosogov@gmail.com
+https://www.linkedin.com/in/denis-kosogov/
