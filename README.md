@@ -4,7 +4,7 @@
 
 ## Description
 
-Designed and developed a beautiful and fully responsive static web application for an Accounting firm in Mississauga
+Designed and developed a beautiful and fully responsive static web application for an Accounting firm in Mississauga. Really focused on improving the visual aesthetic of their old website by using common UI/UX principles.
 
 ## Tech Stack
 
