@@ -18,4 +18,4 @@ Designed and developed a beautiful and fully responsive static web application f
 
 denis.kosogov@gmail.com
 
-https://www.linkedin.com/in/denis-kosogov/
+linkedin.com/in/denis-kosogov/
