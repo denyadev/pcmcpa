@@ -12,3 +12,8 @@ Designed and developed a beautiful and fully responsive static web application f
 - [TailwindCSS](https://tailwindcss.com/)
 
 - This project is deployed using the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+
+Connect with me:
+- 📫 You can reach me at denis.kosogov@gmail.com
+- https://www.linkedin.com/in/denis-kosogov/
