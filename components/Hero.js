@@ -5,20 +5,21 @@ function Hero() {
     <>
         <div className="bg-bg h-screen bg-cover lg:bg-bottom">
             <div div className="bg-black/70 h-full w-full flex items-center justify-center">
-                <motion.div className="xl:w-1/2 text-center space-y-12"
+                <motion.div className="xl:w-1/2 text-center space-y-8"
                     initial={{ opacity: 0 }}
                     animate={{ opacity: 1 }}
                     transition={{ delay: 0.5 }}>
-                    <motion.h1 className="md:mx-24 text-3xl md:text-5xl xl:text-6xl font-bold text-white tracking-wide"
+                    <motion.h1 className="md:mx-12 text-3xl md:text-5xl xl:text-6xl font-bold text-white tracking-wide"
                         initial={{ y: -50 }}
                         animate={{ y: 0 }}
                         transition={{ duration: 1 }}
-                    >Managing All Of Your Accounting Needs</motion.h1>
+                    >PCM Chartered Professional Accountants</motion.h1>
                     <motion.div
                         initial={{ scale: 0.9, opacity: 0}}
                         animate={{ scale: 1, opacity: 1 }}
                         transition={{ delay: 1, duration: 1 }}>
-                        <h2 className="mx-10 md:mx-32 text-base md:text-lg xl:text-xl text-gray-300 tracking-wider">The right financial tools and solutions can help you grow older how and where you want.</h2>
+                        {/* <h3 className="md:mx-12 text-lg md:text-xl xl:text-2xl font-base text-gray-200 tracking-tight">Professional Corporation</h3> */}
+                        <h2 className="mx-10 md:mx-32 text-base md:text-lg xl:text-xl text-gray-300 tracking-wider mt-6">To help you manage and grow your business.</h2>
                         <motion.button type="submit" className="m-auto px-3 py-3 rounded bg-theme text-white font-semibold mt-12 flex items-center space-x-3 hover:text-gray-700 group hover:bg-white"
                             whileHover={ { scale: 1.1 } }
                             >
