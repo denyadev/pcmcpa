@@ -39,7 +39,7 @@ function Services() {
                         <h1 className="text-xl md:text-3xl lg:text-2xl font-semibold md:font-medium text-center">Payroll & Compliance </h1>
                         <ul className="list-disc mx-12 mt-6 text-sm md:text-lg font-normal leading-7">
                             <li>Employee payroll for small business.</li>
-                            <li>Year tax slip preparation.</li>
+                            <li>Year end tax slip preparation.</li>
                             <li>Remuneration planning.</li>
                         </ul>
                     </div>
