@@ -95,7 +95,7 @@ function Contact() {
                     <h1 className="text-2xl font-medium text-white">Contact Information</h1>
                     <h2 className="text-gray-400 pb-6">Got a question? We&apos;d love to hear from you.</h2>
                     <div className="space-y-4">
-                        <a target="_blank" href="https://www.google.com/maps/place/5755+Coopers+Ave,+Mississauga,+ON+L4Z+1R9/data=!4m2!3m1!1s0x882b3f50cb7bbfa9:0x496b52a7654f7722?sa=X&ved=2ahUKEwick96pzNf7AhWnlIkEHScuDVMQ8gF6BAgWEAE" className="flex flex-nowrap items-center space-x-4 group">
+                        <a target="_blank" rel="noreferrer" href="https://www.google.com/maps/place/5755+Coopers+Ave,+Mississauga,+ON+L4Z+1R9/data=!4m2!3m1!1s0x882b3f50cb7bbfa9:0x496b52a7654f7722?sa=X&ved=2ahUKEwick96pzNf7AhWnlIkEHScuDVMQ8gF6BAgWEAE" className="flex flex-nowrap items-center space-x-4 group">
                             <svg className="flex-none fill-white border-2 rounded-2xl p-2 group-hover:fill-theme group-hover:border-theme" xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 24 24"><path d="M12 0c-4.198 0-8 3.403-8 7.602 0 4.198 3.469 9.21 8 16.398 4.531-7.188 8-12.2 8-16.398 0-4.199-3.801-7.602-8-7.602zm0 11c-1.657 0-3-1.343-3-3s1.343-3 3-3 3 1.343 3 3-1.343 3-3 3z"/></svg>
                             <h3 className="text-base font-normal leading-7 text-gray-400 "><span className="font-semibold text-white group-hover:text-theme">Address: </span>5755 Coopers Ave, Mississauga, ON L4Z 1R9</h3>
                         </a>
