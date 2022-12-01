@@ -95,15 +95,15 @@ function Contact() {
                     <h1 className="text-2xl font-medium text-white">Contact Information</h1>
                     <h2 className="text-gray-400 pb-6">Got a question? We&apos;d love to hear from you.</h2>
                     <div className="space-y-4">
-                        <a href="" className="flex flex-nowrap items-center space-x-4 group">
+                        <a target="_blank" href="https://www.google.com/maps/place/5755+Coopers+Ave,+Mississauga,+ON+L4Z+1R9/data=!4m2!3m1!1s0x882b3f50cb7bbfa9:0x496b52a7654f7722?sa=X&ved=2ahUKEwick96pzNf7AhWnlIkEHScuDVMQ8gF6BAgWEAE" className="flex flex-nowrap items-center space-x-4 group">
                             <svg className="flex-none fill-white border-2 rounded-2xl p-2 group-hover:fill-theme group-hover:border-theme" xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 24 24"><path d="M12 0c-4.198 0-8 3.403-8 7.602 0 4.198 3.469 9.21 8 16.398 4.531-7.188 8-12.2 8-16.398 0-4.199-3.801-7.602-8-7.602zm0 11c-1.657 0-3-1.343-3-3s1.343-3 3-3 3 1.343 3 3-1.343 3-3 3z"/></svg>
                             <h3 className="text-base font-normal leading-7 text-gray-400 "><span className="font-semibold text-white group-hover:text-theme">Address: </span>5755 Coopers Ave, Mississauga, ON L4Z 1R9</h3>
                         </a>
-                        <a href="" className="flex flex-nowrap items-center space-x-4 group">
+                        <a href="tel:9055688338" className="flex flex-nowrap items-center space-x-4 group">
                             <svg className="flex-none fill-white border-2 rounded-2xl p-2 group-hover:fill-theme group-hover:border-theme" xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 24 24"><path d="M20 22.621l-3.521-6.795c-.008.004-1.974.97-2.064 1.011-2.24 1.086-6.799-7.82-4.609-8.994l2.083-1.026-3.493-6.817-2.106 1.039c-7.202 3.755 4.233 25.982 11.6 22.615.121-.055 2.102-1.029 2.11-1.033z"/></svg>
                             <h3 className="text-base font-normal leading-7 text-gray-400"><span className="font-semibold text-white group-hover:text-theme">Phone: </span>905-568-8338</h3>
                         </a>
-                        <a href="" className="flex flex-nowrap items-center space-x-4 group">
+                        <a href="mailto:info@pcmcpa.ca" className="flex flex-nowrap items-center space-x-4 group">
                             <svg className="flex-none fill-white border-2 rounded-2xl p-2 group-hover:fill-theme group-hover:border-theme" xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 24 24"><path d="M24 0l-6 22-8.129-7.239 7.802-8.234-10.458 7.227-7.215-1.754 24-12zm-15 16.668v7.332l3.258-4.431-3.258-2.901z"/></svg>								
                             <h3 className="text-base font-normal leading-7 text-gray-400"><span className="font-semibold text-white group-hover:text-theme">Email: </span>info@pcmcpa.ca</h3>
                         </a>
