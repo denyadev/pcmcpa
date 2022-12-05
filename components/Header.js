@@ -29,10 +29,10 @@ function Header() {
         animate={{ y: 0, opacity: 1 }}
         transition={{ delay: 1.75, duration: 0.75 }}>
         <div className="container flex justify-between items-center mx-auto px-8 md:px-14 lg:px-24 w-full">
-            <div className="flex items-center justify-center space-x-4">
-                <Image src={logo} alt="logo" width="50" height="50" />
-                <a href="#" className="text-xl md:text-2xl font-bold text-text-primary tracking-wide">PCM CPA</a>
-            </div>
+            <Link activeClass="active" to="home" spy={true} smooth={true} duration={500}><div className="flex items-center justify-center space-x-4">
+                <Image className="cursor-pointer" src={logo} alt="logo" width="50" height="50" />
+                <div href="#" className="text-xl md:text-2xl font-bold text-text-primary tracking-wide cursor-pointer">PCM CPA</div>
+            </div></Link>
             <div className="hidden xl:flex space-x-20 items-center text-text-primary">
                 <Link activeClass="active" className="text-lg hover:text-theme font-bold tracking-widest cursor-pointer" to="home" spy={true} smooth={true} duration={500}>HOME</Link>
                 <Link activeClass="active" className="text-lg hover:text-theme font-bold tracking-widest cursor-pointer" to="services" spy={true} smooth={true} duration={500}>SERVICES</Link>
